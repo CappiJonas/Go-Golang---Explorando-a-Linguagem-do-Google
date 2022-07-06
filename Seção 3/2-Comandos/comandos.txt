@@ -1,0 +1,9 @@
+ls -> listar arquivos
+go -> mostrar possibilidades do uso do go
+go help <comando> -> especificar o que o comando faz
+go version -> mostrar versão do go
+go env -> informações importantes do go
+go doc <arquivo> -> verificar código
+go build <arquivo> -> compilar o arquivo
+go run <arquivo> -> compilar e executar
+go install -> instalar pacotes
